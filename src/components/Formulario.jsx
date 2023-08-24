@@ -1,7 +1,7 @@
 import { Fragment } from "react"
 import { MARCAS, YEARS, PLANES } from "../constants"
 import useCotizador from "../hooks/useCotizador"
-import Error from "./error"
+import Error from "./Error"
 
 const Formulario = () => {
 
